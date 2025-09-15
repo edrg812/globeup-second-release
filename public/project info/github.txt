@@ -1,0 +1,23 @@
+
+Our core branch is  main but we will code our individual branches 
+
+branch related some command => 
+i) git branch --list     => show all available branch 
+ii) git branch yourNewBranchName => add new branch 
+iii) git switch yourOldOrNewBranchName => switch another branch 
+
+
+after completing your branch, to merge
+
+go to main branch 
+
+git merge yourMergeName 
+
+
+
+############  Some Branch Example##########
+git branch morsalin/header-section/menu 
+git branch seium/hero-section/other
+
+
+

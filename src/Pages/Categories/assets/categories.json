@@ -1,0 +1,836 @@
+[
+  {
+    "id": "001",
+    "name": "Men's Fashion",
+    "image": "/assets/categories/MensFashion.webp",
+    "subcategories": [
+      {
+        "id": "001",
+        "name": "Top Wear",
+        "subcategories": [
+          {
+            "id": "001",
+            "name": "T-Shirts"
+          },
+          {
+            "id": "002",
+            "name": "Shirts"
+          },
+          {
+            "id": "003",
+            "name": "Polo T-Shirts"
+          },
+          {
+            "id": "004",
+            "name": "Hoodies"
+          },
+          {
+            "id": "005",
+            "name": "Sweatshirts"
+          }
+        ]
+      },
+      {
+        "id": "002",
+        "name": "Bottom Wear",
+        "subcategories": [
+          {
+            "id": "006",
+            "name": "Jeans"
+          },
+          {
+            "id": "007",
+            "name": "Trousers"
+          },
+          {
+            "id": "008",
+            "name": "Shorts"
+          },
+          {
+            "id": "009",
+            "name": "Joggers"
+          }
+        ]
+      },
+      {
+        "id": "003",
+        "name": "Footwear",
+        "subcategories": [
+          {
+            "id": "010",
+            "name": "Casual Shoes"
+          },
+          {
+            "id": "011",
+            "name": "Formal Shoes"
+          },
+          {
+            "id": "012",
+            "name": "Sandals & Floaters"
+          },
+          {
+            "id": "013",
+            "name": "Sneakers"
+          }
+        ]
+      },
+      {
+        "id": "004",
+        "name": "Accessories",
+        "subcategories": [
+          {
+            "id": "014",
+            "name": "Watches"
+          },
+          {
+            "id": "015",
+            "name": "Belts"
+          },
+          {
+            "id": "016",
+            "name": "Sunglasses"
+          },
+          {
+            "id": "017",
+            "name": "Caps & Hats"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Women's Fashion",
+    "image": "/assets/categories/WomensFashion.jpg",
+    "subcategories": [
+      {
+        "id": "005",
+        "name": "Western Wear",
+        "subcategories": [
+          {
+            "id": "018",
+            "name": "Tops"
+          },
+          {
+            "id": "019",
+            "name": "Dresses"
+          },
+          {
+            "id": "020",
+            "name": "Jeans"
+          },
+          {
+            "id": "021",
+            "name": "Jumpsuits"
+          }
+        ]
+      },
+      {
+        "id": "006",
+        "name": "Ethnic Wear",
+        "subcategories": [
+          {
+            "id": "022",
+            "name": "Kurtis"
+          },
+          {
+            "id": "023",
+            "name": "Sarees"
+          },
+          {
+            "id": "024",
+            "name": "Lehengas"
+          },
+          {
+            "id": "025",
+            "name": "Salwar Suits"
+          }
+        ]
+      },
+      {
+        "id": "007",
+        "name": "Footwear",
+        "subcategories": [
+          {
+            "id": "026",
+            "name": "Heels"
+          },
+          {
+            "id": "027",
+            "name": "Flats"
+          },
+          {
+            "id": "028",
+            "name": "Sandals"
+          },
+          {
+            "id": "029",
+            "name": "Sneakers"
+          }
+        ]
+      },
+      {
+        "id": "008",
+        "name": "Accessories",
+        "subcategories": [
+          {
+            "id": "030",
+            "name": "Jewellery"
+          },
+          {
+            "id": "031",
+            "name": "Handbags"
+          },
+          {
+            "id": "032",
+            "name": "Scarves"
+          },
+          {
+            "id": "033",
+            "name": "Watches"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Computing & Gaming",
+    "image": "/assets/categories/ComputingAndGaming.png",
+    "subcategories": [
+      {
+        "id": "009",
+        "name": "Laptops & Desktops",
+        "subcategories": [
+          {
+            "id": "034",
+            "name": "Gaming Laptops"
+          },
+          {
+            "id": "035",
+            "name": "Ultrabooks"
+          },
+          {
+            "id": "036",
+            "name": "Monitors"
+          },
+          {
+            "id": "037",
+            "name": "Desktops"
+          }
+        ]
+      },
+      {
+        "id": "010",
+        "name": "Components",
+        "subcategories": [
+          {
+            "id": "038",
+            "name": "Motherboards"
+          },
+          {
+            "id": "039",
+            "name": "Graphics Cards"
+          },
+          {
+            "id": "040",
+            "name": "RAM"
+          },
+          {
+            "id": "041",
+            "name": "Storage"
+          }
+        ]
+      },
+      {
+        "id": "011",
+        "name": "Gaming Accessories",
+        "subcategories": [
+          {
+            "id": "042",
+            "name": "Keyboards"
+          },
+          {
+            "id": "043",
+            "name": "Mice"
+          },
+          {
+            "id": "044",
+            "name": "Headsets"
+          },
+          {
+            "id": "045",
+            "name": "Controllers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "name": "Home & Living",
+    "image": "/assets/categories/HomeAndLiving.jpeg",
+    "subcategories": [
+      {
+        "id": "012",
+        "name": "Kitchen",
+        "subcategories": [
+          {
+            "id": "046",
+            "name": "Cookware"
+          },
+          {
+            "id": "047",
+            "name": "Utensils"
+          },
+          {
+            "id": "048",
+            "name": "Kitchen Tools"
+          },
+          {
+            "id": "049",
+            "name": "Storage"
+          }
+        ]
+      },
+      {
+        "id": "013",
+        "name": "Furniture",
+        "subcategories": [
+          {
+            "id": "050",
+            "name": "Sofas"
+          },
+          {
+            "id": "051",
+            "name": "Tables"
+          },
+          {
+            "id": "052",
+            "name": "Chairs"
+          },
+          {
+            "id": "053",
+            "name": "Beds"
+          }
+        ]
+      },
+      {
+        "id": "014",
+        "name": "Home Decor",
+        "subcategories": [
+          {
+            "id": "054",
+            "name": "Wall Art"
+          },
+          {
+            "id": "055",
+            "name": "Lamps"
+          },
+          {
+            "id": "056",
+            "name": "Curtains"
+          },
+          {
+            "id": "057",
+            "name": "Cushions"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "name": "Groceries & Pet Supplies",
+    "image": "/assets/categories/GroceriesAndPetSupplies.jpg",
+    "subcategories": [
+      {
+        "id": "015",
+        "name": "Food & Staples",
+        "subcategories": [
+          {
+            "id": "058",
+            "name": "Rice"
+          },
+          {
+            "id": "059",
+            "name": "Lentils"
+          },
+          {
+            "id": "060",
+            "name": "Flour"
+          },
+          {
+            "id": "061",
+            "name": "Oil"
+          }
+        ]
+      },
+      {
+        "id": "016",
+        "name": "Beverages",
+        "subcategories": [
+          {
+            "id": "062",
+            "name": "Tea"
+          },
+          {
+            "id": "063",
+            "name": "Coffee"
+          },
+          {
+            "id": "064",
+            "name": "Juices"
+          },
+          {
+            "id": "065",
+            "name": "Soft Drinks"
+          }
+        ]
+      },
+      {
+        "id": "017",
+        "name": "Pet Supplies",
+        "subcategories": [
+          {
+            "id": "066",
+            "name": "Dog Food"
+          },
+          {
+            "id": "067",
+            "name": "Cat Food"
+          },
+          {
+            "id": "068",
+            "name": "Pet Accessories"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "name": "Health & Beauty",
+    "image": "/assets/categories/HealthAndBeauty.jpg",
+    "subcategories": [
+      {
+        "id": "018",
+        "name": "Fragrances",
+        "subcategories": [
+          {
+            "id": "069",
+            "name": "Attar"
+          },
+          {
+            "id": "070",
+            "name": "Perfume"
+          },
+          {
+            "id": "071",
+            "name": "Deodorant"
+          }
+        ]
+      },
+      {
+        "id": "019",
+        "name": "Personal Care",
+        "subcategories": [
+          {
+            "id": "072",
+            "name": "Shampoo"
+          },
+          {
+            "id": "073",
+            "name": "Soaps"
+          },
+          {
+            "id": "074",
+            "name": "Toothpaste"
+          },
+          {
+            "id": "075",
+            "name": "Skincare"
+          }
+        ]
+      },
+      {
+        "id": "020",
+        "name": "Makeup",
+        "subcategories": [
+          {
+            "id": "076",
+            "name": "Lipstick"
+          },
+          {
+            "id": "077",
+            "name": "Foundation"
+          },
+          {
+            "id": "078",
+            "name": "Eyeliner"
+          },
+          {
+            "id": "079",
+            "name": "Blush"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "name": "TV & Home Appliances",
+    "image": "/assets/categories/TVAndHomeAppliances.webp",
+    "subcategories": [
+      {
+        "id": "021",
+        "name": "TVs",
+        "subcategories": [
+          {
+            "id": "080",
+            "name": "Smart TVs"
+          },
+          {
+            "id": "081",
+            "name": "LED TVs"
+          },
+          {
+            "id": "082",
+            "name": "Android TVs"
+          }
+        ]
+      },
+      {
+        "id": "022",
+        "name": "Appliances",
+        "subcategories": [
+          {
+            "id": "083",
+            "name": "Refrigerators"
+          },
+          {
+            "id": "084",
+            "name": "Washing Machines"
+          },
+          {
+            "id": "085",
+            "name": "Microwaves"
+          },
+          {
+            "id": "086",
+            "name": "Air Conditioners"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "name": "Lifestyle & Hobbies",
+    "image": "/assets/categories/LifestyleAndHobbies.jpg",
+    "subcategories": [
+      {
+        "id": "023",
+        "name": "Books & Media",
+        "subcategories": [
+          {
+            "id": "087",
+            "name": "Fiction"
+          },
+          {
+            "id": "088",
+            "name": "Non-Fiction"
+          },
+          {
+            "id": "089",
+            "name": "Magazines"
+          }
+        ]
+      },
+      {
+        "id": "024",
+        "name": "Sports",
+        "subcategories": [
+          {
+            "id": "090",
+            "name": "Cricket"
+          },
+          {
+            "id": "091",
+            "name": "Football"
+          },
+          {
+            "id": "092",
+            "name": "Cycling"
+          },
+          {
+            "id": "093",
+            "name": "Yoga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "name": "Electronic Accessories",
+    "image": "/assets/categories/ElectronicAccessories.avif",
+    "subcategories": [
+      {
+        "id": "025",
+        "name": "Mobile Accessories",
+        "subcategories": [
+          {
+            "id": "094",
+            "name": "Chargers"
+          },
+          {
+            "id": "095",
+            "name": "Cables"
+          },
+          {
+            "id": "096",
+            "name": "Power Banks"
+          },
+          {
+            "id": "097",
+            "name": "Phone Cases"
+          }
+        ]
+      },
+      {
+        "id": "026",
+        "name": "Computer Accessories",
+        "subcategories": [
+          {
+            "id": "098",
+            "name": "Webcams"
+          },
+          {
+            "id": "099",
+            "name": "Mouse"
+          },
+          {
+            "id": "100",
+            "name": "Keyboard"
+          },
+          {
+            "id": "101",
+            "name": "USB Hubs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "name": "Watches & Bags",
+    "image": "/assets/categories/WatchesAndBags.webp",
+    "subcategories": [
+      {
+        "id": "027",
+        "name": "Watches",
+        "subcategories": [
+          {
+            "id": "102",
+            "name": "Analog"
+          },
+          {
+            "id": "103",
+            "name": "Digital"
+          },
+          {
+            "id": "104",
+            "name": "Smart Watches"
+          }
+        ]
+      },
+      {
+        "id": "028",
+        "name": "Bags",
+        "subcategories": [
+          {
+            "id": "105",
+            "name": "Backpacks"
+          },
+          {
+            "id": "106",
+            "name": "Handbags"
+          },
+          {
+            "id": "107",
+            "name": "Messenger Bags"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "011",
+    "name": "Sports & Outdoors",
+    "image": "/assets/categories/SportsAndOutdoors.jpg",
+    "subcategories": [
+      {
+        "id": "029",
+        "name": "Fitness",
+        "subcategories": [
+          {
+            "id": "108",
+            "name": "Dumbbells"
+          },
+          {
+            "id": "109",
+            "name": "Resistance Bands"
+          },
+          {
+            "id": "110",
+            "name": "Treadmills"
+          }
+        ]
+      },
+      {
+        "id": "030",
+        "name": "Outdoor Gear",
+        "subcategories": [
+          {
+            "id": "111",
+            "name": "Tents"
+          },
+          {
+            "id": "112",
+            "name": "Camping Tools"
+          },
+          {
+            "id": "113",
+            "name": "Hiking Shoes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "name": "Mother & Baby",
+    "image": "/assets/categories/MotherAndBaby.png",
+    "subcategories": [
+      {
+        "id": "031",
+        "name": "Baby Essentials",
+        "subcategories": [
+          {
+            "id": "114",
+            "name": "Diapers"
+          },
+          {
+            "id": "115",
+            "name": "Wipes"
+          },
+          {
+            "id": "116",
+            "name": "Feeding Bottles"
+          }
+        ]
+      },
+      {
+        "id": "032",
+        "name": "Toys",
+        "subcategories": [
+          {
+            "id": "117",
+            "name": "Educational Toys"
+          },
+          {
+            "id": "118",
+            "name": "Soft Toys"
+          },
+          {
+            "id": "119",
+            "name": "Rattles"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "013",
+    "name": "Automotives & Motorbikes",
+    "image": "/assets/categories/AutomotivesAndMotorbikes.png",
+    "subcategories": [
+      {
+        "id": "033",
+        "name": "Car Accessories",
+        "subcategories": [
+          {
+            "id": "120",
+            "name": "Seat Covers"
+          },
+          {
+            "id": "121",
+            "name": "Air Fresheners"
+          },
+          {
+            "id": "122",
+            "name": "Car Chargers"
+          }
+        ]
+      },
+      {
+        "id": "034",
+        "name": "Motorbike Gear",
+        "subcategories": [
+          {
+            "id": "123",
+            "name": "Helmets"
+          },
+          {
+            "id": "124",
+            "name": "Gloves"
+          },
+          {
+            "id": "125",
+            "name": "Locks"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "name": "Phones & Accessories",
+    "image": "/assets/categories/PhonesAndAccessories.png",
+    "subcategories": [
+      {
+        "id": "035",
+        "name": "Mobile Phones",
+        "subcategories": [
+          {
+            "id": "126",
+            "name": "Smartphones"
+          },
+          {
+            "id": "127",
+            "name": "Feature Phones"
+          }
+        ]
+      },
+      {
+        "id": "036",
+        "name": "Accessories",
+        "subcategories": [
+          {
+            "id": "128",
+            "name": "Screen Protectors"
+          },
+          {
+            "id": "129",
+            "name": "Covers"
+          },
+          {
+            "id": "130",
+            "name": "Selfie Sticks"
+          }
+        ]
+      }
+    ]
+  }
+]
